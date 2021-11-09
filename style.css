@@ -189,6 +189,10 @@ body{
 /*     border: 10px solid #fff; */
 }
 
+.four-images {
+  padding: 5%;
+}
+
 .four-images .left{
     margin-left: 5%;
 }
